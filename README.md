@@ -6,7 +6,7 @@ This project is designed to practice requesting and managing permissions in a Fl
 ## Clone Repository
 To get started, clone the repository:
 ```sh
- git clone <"https://github.com/AzizbekEshpolatov/permission_example">
+ git clone <https://github.com/AzizbekEshpolatov/permission_example>
 ```
 
 ## Additional Information
