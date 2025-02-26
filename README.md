@@ -1,16 +1,20 @@
-# flutter_permission_practice
+# Permission Practice
 
-A new Flutter project.
+## Project Purpose
+This project is designed to practice requesting and managing permissions in a Flutter application using the `permission_handler` package. It covers handling permissions for storage, camera, location, and other system resources.
 
-## Getting Started
+## Clone Repository
+To get started, clone the repository:
+```sh
+ git clone <"https://github.com/AzizbekEshpolatov/permission_example">
+```
 
-This project is a starting point for a Flutter application.
+## Additional Information
+- Ensure you have added the necessary permissions in the Android `AndroidManifest.xml` and iOS `Info.plist` files.
+- Test on a real device as some permissions may not work properly on an emulator.
+- Open `App Settings` if permission is permanently denied.
 
-A few resources to get you started if this is your first Flutter project:
+## Resources
+- [permission_handler Documentation](https://pub.dev/packages/permission_handler)
+- [Flutter Official Docs](https://flutter.dev/docs)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
